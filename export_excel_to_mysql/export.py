@@ -1,3 +1,4 @@
+# 实现导出excel表格中的数据到mysql数据库
 import pymysql # 操作mysql的模块
 import openpyxl # xlsx格式对应的操作模块
 import time
